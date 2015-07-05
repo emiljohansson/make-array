@@ -12,5 +12,8 @@
     "validator"
   ],
   "author": "Emil Johansson <emiljohansson.se@gmail.com> (emiljohansson.se)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
 }
