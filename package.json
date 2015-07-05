@@ -1,6 +1,6 @@
 {
   "name": "make-array",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns `array` if it's an array or a new array.",
   "repository": "emiljohansson/make-array",
   "main": "index.js",
